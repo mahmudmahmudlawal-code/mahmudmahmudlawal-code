@@ -35,11 +35,7 @@ My research focuses on developing intelligent computational approaches to engine
 
 Development of a hybrid physics-informed machine learning framework for estimating electric vehicle energy consumption under diverse environmental and geographical conditions.
 
-### 2. Machine Learning-Based Battery State-of-Charge Estimation
-
-Research on cross-cell generalization of machine-learning models for lithium-ion battery State-of-Charge estimation under different operating conditions.
-
-### 3. Automatic Digital Security Door Lock System
+### 2. Automatic Digital Security Door Lock System
 
 Design and construction of an automatic digital security door lock system using electrical and electronic engineering principles.
 
@@ -66,9 +62,7 @@ I am interested in PhD research opportunities and collaborative research in robo
 ## 🌐 Connect With Me
 
 - **GitHub:** https://github.com/mahmudmahmudlawal-code
-- **LinkedIn:** [Add your LinkedIn profile]
-- **Google Scholar:** [Add your Google Scholar profile]
-- **ORCID:** [Add your ORCID profile]
+
 
 ---
 
