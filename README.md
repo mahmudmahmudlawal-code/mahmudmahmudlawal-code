@@ -13,8 +13,6 @@ My research focuses on developing intelligent computational approaches to engine
 - **M.Tech in Robotics Engineering**
   - Research: A Hybrid Physics-Informed Machine Learning Framework for Electric Vehicle Energy Consumption Estimation Under Diverse Environmental and Geographical Conditions.
 
-- **Master's in Engineering Management**
-
 - **B.Eng in Electrical Engineering**
   - Research: Design and Construction of an Automatic Digital Security Door Lock System.
 
