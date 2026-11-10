@@ -23,7 +23,6 @@ My research focuses on developing intelligent computational approaches to engine
 - Physics-Informed Neural Networks (PINNs)
 - Electric Vehicle Technologies
 - Battery Management Systems
-- State-of-Charge (SoC) Estimation
 - Intelligent Control Systems
 - Embedded Systems and Automation
 
